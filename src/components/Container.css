@@ -1,0 +1,19 @@
+.container1{
+    justify-content: center;
+    margin-top: 5px;
+    padding-top: 7px;
+    /* height: 110px; */
+    
+  }
+  .col{
+    display: flex;
+    position: relative;
+    flex-flow: wrap;
+    background-color: white;
+    /* height: px; */
+    /* width: 150px; */
+    border-radius: 10px;
+    padding-top: 5px;
+    margin: 4px 11px;
+    display: inline-block;
+  }

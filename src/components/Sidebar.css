@@ -1,0 +1,44 @@
+.logo {
+  border-bottom: 1px solid lightgray;
+}
+.logo img {
+  height: 49%;
+  width: 62%;
+  padding-right: 7px;
+  margin-left: 15px;
+  padding-bottom: 7px;
+}
+img {
+  height: 30%;
+  width: 30%;
+  margin-left: 30%;
+}
+.nav-icon {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding-bottom: 50px;
+}
+a {
+  padding-bottom: 10px;
+  display: block;
+}
+.nav-items {
+  justify-content: center;
+
+  height: 97.6vh;
+}
+.nav-logout {
+  padding-top: 240px;
+  padding-left: 5px;
+}
+.nav-logout img {
+  width: 25%;
+}
+a:hover,
+a:active {
+  width: 110%;
+}
+.nav-logout:hover,
+.nav-logout:active {
+  width: 110%;
+}

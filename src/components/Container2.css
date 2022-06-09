@@ -1,0 +1,25 @@
+.container2 {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 10px;
+  margin-left: 7px;
+  margin-bottom: -6px;
+  margin-right: 7px;
+  justify-content: center;
+  }
+  .map-col{
+    background-color: white;
+    padding-top: 21px;
+    /* height: 250px; */
+    /* width: 540px; */
+    padding-left: 26px;
+    margin-right: 15px;
+    border-radius: 5px;
+  }
+  .live-col{
+    background-color: white;
+    /* padding-top: 280px; */
+    margin-left: 7px;
+    border-radius: 10px;
+  }
+  

@@ -1,0 +1,19 @@
+.covid-map {
+  display: flex;
+  gap: 12px;
+}
+.covid-map small {
+  padding-top: 2px;
+}
+.check {
+  padding-left: 30px;
+}
+.covid-map h5,
+label {
+  color: gray;
+}
+.map-view {
+    position: absolute;
+    left: 187px;
+    top: 188px;
+}

@@ -1,0 +1,23 @@
+.App {
+  display: flex;
+  flex-flow: wrap;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  background: #ffffff;
+}
+.navbar {
+  width: 4%;
+  background: white;
+}
+.dash-board {
+  width: 70%;
+  justify-content: center;
+  background-color: lightgrey;
+}
+
+.right-bar {
+  width: 24%;
+  background-color: white;
+  
+}
+

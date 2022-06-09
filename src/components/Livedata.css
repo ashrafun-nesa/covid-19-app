@@ -1,0 +1,26 @@
+.country-percent {
+  display: flex;
+  flex-flow: row wrap;
+  margin: 10px 5px 10px 5px;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid lightgray;
+  padding-bottom: 15px;
+}
+
+.percentage {
+  padding-right: 0px;
+}
+.percentage, .country-name{
+    margin-left: 6px;
+}
+.country-percent img{
+    height: 18px;
+    width: 22px;
+    margin: 0px 0px 0px 0px;
+    border-radius: 4px;
+}
+.country-name2{
+    color: #9998B2;
+    margin-left: 6px;
+}

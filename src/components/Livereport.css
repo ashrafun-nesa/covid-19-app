@@ -1,0 +1,32 @@
+.live-report{
+    height: 325px;
+}
+.live-report h6{
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+}
+
+.live-data{
+    height: calc(100% - 50px);
+    padding: 0px 10px;
+    overflow: auto;
+}
+/* width */
+/* p::-webkit-scrollbar {
+    width: 10px;
+  } */
+  
+  /* Track */
+  /* p::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+  } */
+   
+  /* Handle */
+  /* p::-webkit-scrollbar-thumb {
+    background: #888; 
+  } */
+  
+  /* Handle on hover */
+  /* ::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  } */

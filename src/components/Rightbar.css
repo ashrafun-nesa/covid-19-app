@@ -1,0 +1,45 @@
+.right-items {
+  height: 97.6vh;
+}
+.right-top {
+  padding-left: 28px;
+    padding-top: 0px;
+}
+.right-top h6 {
+  padding-top: 3px;
+  padding-left: 0px;
+  margin: 7px;
+
+}
+
+.right-bottom {
+  background: #5c5afc;
+  margin-left: 30px;
+  padding-bottom: 180px;
+  border-radius: 10px;
+  height: 315px;
+}
+.right-bottom img {
+  margin-left: 130px;
+
+  margin-top: -6px;
+  width: 70%;
+  height: 190%;
+}
+.right-bottom p {
+  margin-left: 30px;
+  margin-right: 25px;
+  padding-top: 20px;
+  color: white;
+}
+
+.circle {
+  position: absolute;
+  display: block;
+  height: 35px;
+  width: 35px;
+  /* margin-top: 20px; */
+  margin-left: 30px;
+  border-radius: 50%;
+  background-color: black;
+}

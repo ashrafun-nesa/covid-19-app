@@ -1,0 +1,13 @@
+.percentage-arrow p{
+    margin-left: 0px;
+    margin-top: 0px;
+    display: inline;
+}
+.percentage-arrow{
+    margin-top: 25px;
+    padding-bottom: 30px;
+
+}
+.percentage-card{
+    margin-left: 1px;
+}
